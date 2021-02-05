@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "tp1_ex5_ex6_ex7"

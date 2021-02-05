@@ -1,0 +1,5 @@
+com/example/tp1_exercice8/BuildConfig.java
+ com.example.tp1_exercice8.BuildConfig
+com/example/tp1_exercice8/MainActivity.java
+ com.example.tp1_exercice8.MainActivity
+ com.example.tp1_exercice8.MainActivity$1
